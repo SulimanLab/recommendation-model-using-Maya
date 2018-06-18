@@ -1,0 +1,551 @@
+TID	Product1	Product2	Product3	Product4	Product5	Product6	Product7	Product8	Product9	Product10	Product11	Product12	Product13	Product14	Product15	Product16	Product17	Product18	Product19	Product20	Product21	Product22	Product23	Product24	Product25	Product26	Product27	Product28	Product29	Product30	Product31	Product32
+1	semi-finished bread																															
+2	whole milk	sugar	cling film/bags																													
+3	whole milk	curd	semi-finished bread																													
+4	sausage	rolls/buns																														
+5	dessert	fruit/vegetable juice	nut snack	specialty bar																												
+6	whole milk	curd	ice cream	Instant food products	canned fish	newspapers																										
+7	Martadella	whole milk	shopping bags																													
+8	Halawa	sausage	pastry																													
+9	fruit/vegetable juice																															
+10	sausage	other vegetables	whipped/sour cream	ice cream	domestic eggs	rolls/buns	coffee	bottled water	newspapers																							
+11	rolls/buns	soda	Canned Pepsi	waffles	shopping bags																											
+12	whole milk	whipped/sour cream	semi-finished bread	margarine																												
+13	other vegetables	fruit/vegetable juice	salty snack	napkins																												
+14	chicken	pip fruit	other vegetables	butter	soft cheese	frozen vegetables	long life bakery product	candles																								
+15	citrus fruit	grapes																														
+16	tropical fruit	root vegetables	whole milk	curd	yogurt	frozen vegetables	domestic eggs																									
+17	berries	yogurt	misc. beverages	Canned Pepsi	Ginger powder	cake bar																										
+18	yogurt	specialty chocolate	seasonal products																													
+19	Halawa																															
+20	tropical fruit	yogurt	rolls/buns	skin care	shopping bags																											
+21	brown bread																															
+22	sausage	Martadella	citrus fruit	bottled water	soda	misc. beverages	Canned Pepsi	red/blush wine																								
+23	frozen meals	frozen fish	chocolate																													
+24	soda																															
+25	butter milk	ice cream	coffee	bottled water	fruit/vegetable juice	hygiene articles	shopping bags																									
+26	curd	frozen meals	pastry	long life bakery product	waffles	napkins																										
+27	oil																															
+28	whole milk	rolls/buns																														
+29	beef	root vegetables	curd	dessert	waffles	dish cleaner																										
+30	Halawa	whole milk	yogurt	tidbits	frozen vegetables	rolls/buns	detergent																									
+31	sausage	citrus fruit	tropical fruit	pip fruit	grapes	bottled water	soda	Pepsi	cake bar																							
+32	soda	specialty bar																														
+33	packaged fruit/vegetables	pickled vegetables																														
+34	Halawa																															
+35	pip fruit	sugar																														
+36	hard cheese	honey	candy																													
+37	yogurt	rolls/buns																														
+38	Martadella	white bread	pastry	shopping bags																												
+39	citrus fruit	frozen potato products																														
+40	Frozen beef slices	root vegetables	butter	bottled water	Powedered honny																											
+41	sausage	sliced cheese	rolls/buns	soda	Canned Pepsi	shopping bags																										
+42	whole milk																															
+43	turkey	other vegetables	whipped/sour cream	canned vegetables	instant coffee	bottled water	red/blush wine																									
+44	Martadella	tropical fruit																														
+45	butter milk																															
+46	Canned Pepsi																															
+47	beef																															
+48	Ginger powder	chocolate marshmallow																														
+49	Ginger powder (appetizer)																															
+50	rolls/buns	pastry	soda																													
+51	Pepsi																															
+52	Pepsi																															
+53	brown bread																															
+54	Halawa	tropical fruit	other vegetables	whole milk	frozen meals	rolls/buns	detergent	napkins	newspapers																							
+55	whole milk	pastry																														
+56	other vegetables	whole milk	brown bread	cat food	chewing gum	napkins																										
+57	grapes	root vegetables	other vegetables	roll products 	pasta	oil	margarine	coffee	bottled water	detergent																						
+58	processed cheese																															
+59	root vegetables	other vegetables	butter	hard cheese	margarine	mustard	pickled vegetables																									
+60	domestic eggs	rolls/buns																														
+61	Canned Pepsi																															
+62	sausage	other vegetables																														
+63	beef	root vegetables	herbs	packaged fruit/vegetables	whipped/sour cream	cream cheese 	vinegar	oil	margarine	soups	pickled vegetables	meat spreads	canned fish	fruit/vegetable juice	candles																	
+64	Frozen beef slices	whole milk	rolls/buns																													
+65	beef	frozen fish	rolls/buns	margarine																												
+66	rolls/buns	soda	fruit/vegetable juice																													
+67	Martadella	root vegetables	whole milk	sliced cheese	frozen fish	domestic eggs	cake bar	chocolate marshmallow	candy																							
+68	cat food	misc. beverages	female sanitary products																													
+69	rolls/buns	Pepsi																														
+70	chicken																															
+71	Halawa	Frozen beef slicesburger meat	root vegetables	other vegetables	whole milk	curd	sliced cheese	processed cheese	frozen meals	ice cream	domestic eggs	bottled water	fruit/vegetable juice	Pepsi																		
+72	pastry	waffles	shopping bags																													
+73	citrus fruit	pip fruit	UHT-milk	pet care	coffee	Pepsi																										
+74	shopping bags																															
+75	Halawa	sausage	tropical fruit	root vegetables	whole milk	pastry																										
+76	beef	curd	yogurt	whipped/sour cream	frozen meals	brown bread	canned fish	coffee	candy	cling film/bags																						
+77	frozen vegetables																															
+78	tropical fruit	pip fruit	root vegetables	Ginger powder	detergent	dishes	newspapers																									
+79	chocolate																															
+80	soda	specialty chocolate	shopping bags																													
+81	root vegetables	whole milk	curd																													
+82	chicken	tropical fruit	pip fruit	other vegetables	yogurt	soft cheese	domestic eggs	roll products 	fruit/vegetable juice	dish cleaner																						
+83	rolls/buns	coffee	bottled water																													
+84	specialty bar																															
+85	soda																															
+86	sausage	citrus fruit	tropical fruit	root vegetables	butter milk	brown bread	mustard	popcorn	shopping bags																							
+87	tropical fruit	frozen vegetables																														
+88	soda																															
+89	Canned Pepsi																															
+90	Pepsi																															
+91	ice cream	bottled water	soda																													
+92	sausage	margarine	newspapers																													
+93	pastry	sugar	coffee	Ginger powder (appetizer)																												
+94	meat	root vegetables	whole milk	newspapers																												
+95	citrus fruit	other vegetables	whole milk	butter	pastry	oil	bottled water	Pepsi	detergent																							
+96	other vegetables	rolls/buns	bottled water	skin care																												
+97	Halawa	tropical fruit																														
+98	pastry	soda	waffles																													
+99	Martadella	whole milk	margarine																													
+100	sausage	other vegetables	rolls/buns																													
+101	Halawa	meat	citrus fruit	pip fruit	other vegetables	whole milk	yogurt	sliced cheese	Canned Pepsi	house keeping products																						
+102	Canned Pepsi																															
+103	beverages	processed cheese	coffee																													
+104	soda	chocolate																														
+105	other vegetables	butter milk	bottled water	Pepsi																												
+106	other vegetables	yogurt	whipped/sour cream	mayonnaise	domestic eggs	canned fruit	pet care	misc. beverages	Canned  honey																							
+107	newspapers																															
+108	Frozen beef slices	pip fruit	root vegetables	other vegetables	whole milk	whipped/sour cream	hard cheese	domestic eggs	margarine																							
+109	beef	ice cream																														
+110	Pepsi	chocolate	specialty bar																													
+111	root vegetables	whole milk	butter	yogurt	whipped/sour cream	soft cheese	cream cheese 	domestic eggs	brown bread	jam	misc. beverages	fruit/vegetable juice	napkins	pot plants																		
+112	whole milk	cat food	bottled water	napkins																												
+113	white bread	flour	fruit/vegetable juice	hygiene articles																												
+114	pip fruit	berries	root vegetables	yogurt	soft cheese	hard cheese	frozen meals	frozen fish	frozen dessert	white bread	pastry	pasta	cereals	soda	long life bakery product	cake bar	detergent															
+115	rolls/buns	pickled vegetables	chewing gum	specialty chocolate																												
+116	whole milk	Pepsi																														
+117	Canned Pepsi																															
+118	citrus fruit	tropical fruit	brown bread	sauces	soda	napkins	shopping bags																									
+119	yogurt	chocolate																														
+120	whole milk	butter	yogurt	frozen meals	rolls/buns	zwieback	margarine	pickled vegetables	fruit/vegetable juice	Pepsi																						
+121	whole milk	dessert	ice cream	misc. beverages	Canned Pepsi	cake bar																										
+122	bottled water	fruit/vegetable juice																														
+123	pip fruit	butter milk	cream cheese 	rolls/buns																												
+124	frozen meals																															
+125	chicken	soda	Ginger powder (appetizer)	newspapers	shopping bags																											
+126	citrus fruit	tropical fruit	root vegetables	yogurt	canned vegetables	bottled water	soda	softener																								
+127	sausage	meat	chicken	pip fruit	whole milk	dessert	whipped/sour cream	processed cheese	domestic eggs	rolls/buns	white bread	pickled vegetables	soda	fruit/vegetable juice	salty snack	long life bakery product	waffles	pot plants														
+128	whole milk	yogurt	white bread	newspapers																												
+129	pip fruit	bottled water	candy																													
+130	whole milk	cream cheese 	coffee																													
+131	citrus fruit	tropical fruit	pip fruit	onions	other vegetables	beverages	processed cheese																									
+132	Frozen beef slicesburger meat	hard cheese	frozen meals	pasta	dog food	salty snack	shopping bags																									
+133	long life bakery product																															
+134	shopping bags																															
+135	citrus fruit	tropical fruit	pip fruit	root vegetables	onions	other vegetables	whole milk	yogurt	rolls/buns	brown bread	soda	fruit/vegetable juice																				
+136	tropical fruit	pip fruit	grapes																													
+137	turkey	root vegetables	other vegetables	curd	Pepsi	specialty chocolate																										
+138	yogurt																															
+139	Canned Pepsi																															
+140	curd	bottled water	photo/film																													
+141	beef	citrus fruit	other vegetables	whole milk	domestic eggs	rolls/buns	brown bread	coffee	soda	salty snack	shopping bags																					
+142	margarine	misc. beverages	Pepsi																													
+143	soda	Canned Pepsi	shopping bags																													
+144	citrus fruit	pip fruit	whole milk	sliced cheese	salty snack																											
+145	chicken	citrus fruit	other vegetables	butter	yogurt	frozen dessert	domestic eggs	rolls/buns	rum	cling film/bags																						
+146	pip fruit	yogurt	brown bread																													
+147	sausage	tropical fruit	berries	whole milk	butter	dessert	pastry	soda	fruit/vegetable juice	long life bakery product	chewing gum	hygiene articles																				
+148	Halawa	tropical fruit	pip fruit	sliced cheese	mayonnaise	domestic eggs	rolls/buns	fruit/vegetable juice	shopping bags																							
+149	whole milk	bottled water	Pepsi	newspapers																												
+150	Martadella	margarine	candy																													
+151	bottled water	soda	chocolate	shopping bags																												
+152	Martadella	other vegetables	yogurt	white bread	Pepsi	napkins	shopping bags																									
+153	fruit/vegetable juice																															
+154	Martadella	root vegetables	bottled water	soda																												
+155	pip fruit	sweet spreads																														
+156	other vegetables	curd	margarine																													
+157	liver loaf	chicken	turkey	berries	packaged fruit/vegetables	whole milk	yogurt	cream cheese 	rolls/buns	pastry	bottled water	soda	bathroom cleaner																			
+158	citrus fruit	whole milk	fruit/vegetable juice	Powedered honny	chocolate																											
+159	sausage	citrus fruit	tropical fruit	other vegetables	curd	pastry	soda	chocolate	hygiene articles																							
+160	Pepsi	shopping bags																														
+161	pip fruit	condensed milk	Pepsi	red/blush wine	chocolate	shopping bags																										
+162	onions	butter	whipped/sour cream	hard cheese	frozen vegetables	pasta	specialty fat	syrup	candy	napkins	cling film/bags																					
+163	whole milk	coffee																														
+164	whole milk	butter	yogurt	rolls/buns																												
+165	chewing gum	napkins	dishes																													
+166	brown bread	seasonal products																														
+167	tropical fruit	Pepsi																														
+168	salty snack																															
+169	Halawa	beef	Frozen beef slicesburger meat	grapes	root vegetables	whole milk	butter	frozen dessert	potato products	bottled water	Pepsi																					
+170	citrus fruit	tropical fruit	pip fruit	root vegetables	other vegetables	chocolate	candy	shopping bags																								
+171	other vegetables																															
+172	Martadella	beef	other vegetables	yogurt	shopping bags																											
+173	Martadella	beverages	flour	margarine	Pepsi																											
+174	whole milk																															
+175	yogurt	frozen dessert																														
+176	Frozen beef slicesburger meat	root vegetables	other vegetables	whole milk	rolls/buns																											
+177	sausage	yogurt	fruit/vegetable juice	shopping bags																												
+178	other vegetables	napkins																														
+179	other vegetables	butter																														
+180	tropical fruit	grapes	other vegetables	curd	beverages	pastry	nut snack																									
+181	bottled water	soda	misc. beverages	Pepsi																												
+182	Halawa	frozen dessert	rolls/buns																													
+183	tropical fruit	whole milk	butter	bottled water	hygiene articles	napkins																										
+184	sausage	soda	Pepsi																													
+185	sausage	beef	pip fruit	whole milk	cream cheese 	white bread	brown bread	seasonal products	hygiene articles																							
+186	seasonal products																															
+187	pip fruit	other vegetables	frozen vegetables	canned vegetables																												
+188	frozen vegetables																															
+189	citrus fruit																															
+190	whole milk	pastry																														
+191	root vegetables	butter	margarine																													
+192	Canned Pepsi																															
+193	curd	whipped/sour cream	flour	baking powder	newspapers																											
+194	yogurt	frozen meals	soda																													
+195	bottled water	soda																														
+196	bottled water	candy																														
+197	yogurt	canned vegetables	pot plants																													
+198	tropical fruit	canned vegetables	Pepsi	specialty chocolate																												
+199	tropical fruit	rolls/buns	bottled water																													
+200	Halawa	sausage	hard cheese	soda	nut snack	shopping bags																										
+201	tropical fruit	ice cream	frozen dessert	candy																												
+202	tropical fruit	yogurt	rolls/buns																													
+203	whole milk																															
+204	UHT-milk	brown bread	mustard	coffee	soda	dish cleaner																										
+205	citrus fruit	tropical fruit	other vegetables	butter milk	yogurt	pastry	waffles	candy	dental care																							
+206	chicken	brown bread	bottled water	newspapers																												
+207	turkey	seasonal products																														
+208	sausage	chicken	Martadella	other vegetables	whole milk	butter	yogurt	margarine	fruit/vegetable juice	Pepsi																						
+209	citrus fruit	onions	UHT-milk	brown bread	pastry	bottled water	fruit/vegetable juice																									
+210	sausage	Frozen beef slices	other vegetables	whole milk	curd	cream cheese 	processed cheese	frozen potato products	pastry																							
+211	Frozen beef slices	root vegetables	onions	herbs	cream cheese 	zwieback	pot plants																									
+212	pastry	soda	specialty bar																													
+213	whole milk	yogurt	frozen meals	sugar	coffee	bottled water	fruit/vegetable juice	Pepsi	salty snack																							
+214	sausage	soda																														
+215	whole milk	margarine	soda	napkins	photo/film																											
+216	meat	other vegetables																														
+217	beef	other vegetables	canned fish																													
+218	whole milk	butter	brown bread	pastry	sweet spreads	soda	newspapers																									
+219	sausage	Frozen beef slicesburger meat	tropical fruit	root vegetables	whole milk	UHT-milk	domestic eggs	rolls/buns	semi-finished bread	margarine	pickled vegetables	soda	fruit/vegetable juice																			
+220	whole milk	ice cream	pastry	coffee	shopping bags																											
+221	dessert	misc. beverages	fruit/vegetable juice	popcorn	shopping bags																											
+222	onions																															
+223	citrus fruit	tropical fruit	pip fruit	shopping bags																												
+224	sausage	citrus fruit	tropical fruit	pip fruit	flour	baking powder																										
+225	citrus fruit	root vegetables	packaged fruit/vegetables	yogurt	sliced cheese	rolls/buns	white bread	brown bread	zwieback																							
+226	yogurt	frozen fish	rolls/buns																													
+227	berries	yogurt																														
+228	root vegetables	whole milk	long life bakery product	cling film/bags																												
+229	citrus fruit	pip fruit	root vegetables	UHT-milk	coffee	candles																										
+230	beef	Frozen beef slicesburger meat	root vegetables	other vegetables	butter	curd	dessert	yogurt	cream cheese 	frozen meals	pastry	potato products	Instant food products	soda	napkins	house keeping products	newspapers															
+231	dessert	Canned Pepsi																														
+232	chewing gum																															
+233	sausage	Frozen beef slices	Martadella	Frozen beef slicesburger meat	citrus fruit	whole milk	butter	yogurt	whipped/sour cream	sliced cheese	hard cheese	cream cheese 	frozen meals	brown bread																		
+234	fruit/vegetable juice																															
+235	pastry																															
+236	Canned Pepsi																															
+237	frozen dessert	semi-finished bread																														
+238	Frozen beef slicesburger meat	other vegetables	whole milk	pot plants																												
+239	root vegetables	whole milk	semi-finished bread	cat food	fruit/vegetable juice	Canned Pepsi	Ginger powder (appetizer)	waffles	hygiene articles	newspapers	shopping bags																					
+240	Frozen beef slicesburger meat	whole milk	butter	UHT-milk	cat food	pet care	detergent																									
+241	Pepsi																															
+242	curd cheese	rolls/buns	Pepsi																													
+243	Frozen beef slicesburger meat	pickled vegetables	hygiene articles																													
+244	specialty cheese																															
+245	sausage	tropical fruit	nuts/prunes	other vegetables	curd																											
+246	whipped/sour cream	curd cheese	specialty chocolate	abrasive cleaner																												
+247	rolls/buns																															
+248	specialty chocolate																															
+249	specialty chocolate																															
+250	beef	citrus fruit	tropical fruit	pip fruit	berries	root vegetables	other vegetables	whole milk	dessert	sliced cheese	rolls/buns	flour	sugar	pickled vegetables	tea	soda	Pepsi	chocolate	napkins	newspapers												
+251	root vegetables	onions	whole milk	bottled water	dishes																											
+252	whole milk	butter	domestic eggs	bottled water	salty snack																											
+253	dish cleaner	bathroom cleaner	hygiene articles	napkins																												
+254	cream cheese 																															
+255	rolls/buns	fruit/vegetable juice	long life bakery product	newspapers																												
+256	sausage	citrus fruit	pip fruit	whole milk	butter milk																											
+257	other vegetables																															
+258	dishes																															
+259	Martadella	beef	whole milk	frozen vegetables	sugar	Canned Pepsi	detergent	skin care	napkins	flower (seeds)																						
+260	pip fruit	whole milk	pastry	hygiene articles	napkins																											
+261	meat	brown bread	seasonal products	shopping bags																												
+262	tropical fruit	salt	canned fish	bottled water	Pepsi																											
+263	whole milk	rolls/buns	hygiene articles	napkins	house keeping products																											
+264	curd	semi-finished bread	baking powder																													
+265	yogurt	frozen meals	long life bakery product	chocolate	shopping bags																											
+266	brown bread	specialty chocolate	shopping bags																													
+267	whole milk	curd	yogurt	whipped/sour cream	canned vegetables	soda	shopping bags																									
+268	yogurt	rolls/buns	misc. beverages																													
+269	sausage	other vegetables	whole milk	sliced cheese	white bread	baking powder	pickled vegetables	rum																								
+270	Frozen beef slicesburger meat																															
+271	yogurt	bottled water	soda	newspapers																												
+272	sausage	margarine	shopping bags																													
+273	Halawa	Frozen beef slicesburger meat	whole milk	domestic eggs	rolls/buns	brown bread	margarine	bottled water	flower (seeds)																							
+274	pip fruit	other vegetables	whole milk	yogurt	brown bread	pastry																										
+275	Martadella																															
+276	whole milk	whipped/sour cream	rolls/buns	pot plants																												
+277	tropical fruit	whipped/sour cream	hygiene articles																													
+278	tropical fruit	frozen vegetables																														
+279	root vegetables																															
+280	curd	yogurt	spread cheese	sugar	canned vegetables																											
+281	sausage	beef	pip fruit	grapes	root vegetables	other vegetables	whole milk	curd	butter milk	yogurt	sliced cheese	cream cheese 	specialty cheese	frozen meals	white bread	pastry	candy															
+282	whole milk	semi-finished bread	sugar	coffee	seasonal products	hygiene articles	napkins	shopping bags																								
+283	other vegetables	whole milk	butter milk	specialty cheese																												
+284	whole milk	domestic eggs																														
+285	whole milk																															
+286	beef	tropical fruit	other vegetables	whole milk	cream cheese 	rolls/buns	mustard	bottled water	red/blush wine	dishes																						
+287	whole milk	yogurt	chocolate																													
+288	Frozen beef slices	root vegetables	whole milk	butter	whipped/sour cream	hard cheese	rolls/buns																									
+289	sausage	other vegetables	yogurt	whipped/sour cream	cream cheese 	soda	hygiene articles	cling film/bags																								
+290	yogurt	artif. sweetener																														
+291	tropical fruit	other vegetables	whole milk	curd	butter milk	yogurt	whipped/sour cream	cream cheese 	rolls/buns	pastry																						
+292	root vegetables	UHT-milk	soda																													
+293	Frozen beef slices	whole milk	curd	dessert																												
+294	salty snack																															
+295	rolls/buns	brown bread																														
+296	Frozen beef slices	Martadella	butter milk	sweet spreads	shopping bags																											
+297	beef	root vegetables	other vegetables	frozen dessert	pastry	vinegar	margarine	sugar	cat food	coffee	Pepsi	cling film/bags	candles	pot plants																		
+298	yogurt	rolls/buns																														
+299	condensed milk	coffee	shopping bags																													
+300	rolls/buns	rum																														
+301	yogurt	salty snack	napkins																													
+302	UHT-milk	bottled water																														
+303	root vegetables	curd	mayonnaise	domestic eggs	margarine	mustard	shopping bags																									
+304	Halawa	other vegetables	red/blush wine	shopping bags																												
+305	whipped/sour cream																															
+306	beef	citrus fruit	whole milk	yogurt	rolls/buns	bottled water																										
+307	beef	domestic eggs	rolls/buns	flour	candy																											
+308	newspapers																															
+309	tropical fruit	whole milk	pickled vegetables	soda																												
+310	rolls/buns	coffee	instant coffee	salty snack	specialty chocolate																											
+311	root vegetables	other vegetables	frozen vegetables	canned vegetables	coffee																											
+312	soda																															
+313	Frozen beef slicesburger meat	rolls/buns																														
+314	Canned Pepsi																															
+315	root vegetables	whole milk	yogurt	brown bread	pastry	specialty chocolate	candy																									
+316	meat	Frozen beef slicesburger meat	onions	other vegetables	condensed milk	brown bread																										
+317	meat	whole milk	sliced cheese	brown bread	pastry	fruit/vegetable juice	newspapers																									
+318	soda																															
+319	other vegetables	butter milk	yogurt	fruit/vegetable juice																												
+320	fruit/vegetable juice																															
+321	Halawa	pasta	Pepsi																													
+322	waffles																															
+323	tropical fruit	berries	yogurt	domestic eggs	brown bread	soda	candy																									
+324	newspapers																															
+325	citrus fruit	soda	misc. beverages	Canned Pepsi	chocolate	specialty chocolate	candy	shopping bags																								
+326	domestic eggs	rolls/buns																														
+327	beverages																															
+328	yogurt	UHT-milk	soda	red/blush wine	waffles																											
+329	Pepsi																															
+330	citrus fruit	yogurt	whipped/sour cream	shopping bags																												
+331	Martadella	beef	other vegetables	whipped/sour cream	waffles	chewing gum																										
+332	Martadella	whole milk	pastry	sugar	newspapers																											
+333	bottled water	candy																														
+334	beef	root vegetables	other vegetables	frozen vegetables	ice cream	rolls/buns	sugar																									
+335	Canned Pepsi																															
+336	Halawa	Frozen beef slicesburger meat	whole milk	coffee	bottled water	Pepsi	waffles	chocolate																								
+337	Canned Pepsi																															
+338	Frozen beef slicesburger meat	tropical fruit	other vegetables	shopping bags																												
+339	tropical fruit	pip fruit																														
+340	chicken	tropical fruit	pip fruit	whipped/sour cream	sugar	baking powder	instant coffee	soda																								
+341	Halawa	Martadella	beef	tropical fruit	other vegetables	whole milk	yogurt	rolls/buns	semi-finished bread	pickled vegetables	soda	newspapers																				
+342	brown bread	salty snack																														
+343	other vegetables	dessert	Canned Pepsi	chewing gum	flower (seeds)																											
+344	dessert																															
+345	root vegetables	whole milk	domestic eggs																													
+346	Martadella	whole milk	rolls/buns	artif. sweetener	baking powder	specialty chocolate	house keeping products	newspapers																								
+347	Canned Pepsi																															
+348	whole milk																															
+349	beef	citrus fruit	tropical fruit	yogurt	UHT-milk	frozen vegetables	rolls/buns	bottled water	skin care																							
+350	Frozen beef slicesburger meat	grapes	root vegetables	other vegetables	softener	kitchen towels	pot plants																									
+351	Pepsi																															
+352	newspapers																															
+353	rolls/buns																															
+354	citrus fruit	tropical fruit	prosecco																													
+355	brown bread	bottled water	specialty bar																													
+356	grapes	whole milk	Powedered honny	dishes	newspapers																											
+357	tropical fruit	butter	rolls/buns	canned fish	dog food	shopping bags																										
+358	butter	sliced cheese	brown bread																													
+359	Pepsi	shopping bags																														
+360	rolls/buns	Pepsi																														
+361	Frozen beef slices	beef	tropical fruit	pip fruit	other vegetables	whole milk	dessert	yogurt	whipped/sour cream	soft cheese	frozen potato products	rolls/buns	soda	long life bakery product	chocolate																	
+362	other vegetables	soda	specialty bar																													
+363	beef	other vegetables	whole milk	brown bread	waffles																											
+364	photo/film																															
+365	citrus fruit	root vegetables	yogurt	hard cheese	fruit/vegetable juice																											
+366	whole milk	fruit/vegetable juice	newspapers																													
+367	tropical fruit	nuts/prunes	root vegetables	whole milk	yogurt	rolls/buns	waffles	napkins	newspapers																							
+368	Pepsi																															
+369	bottled water																															
+370	Halawa	whole milk	white bread	brown bread																												
+371	citrus fruit	butter	sliced cheese	domestic eggs																												
+372	bottled water	soda	pot plants																													
+373	citrus fruit	yogurt	whipped/sour cream	soda	cookware																											
+374	citrus fruit	margarine																														
+375	curd	rolls/buns																														
+376	Canned Pepsi																															
+377	beef																															
+378	rolls/buns																															
+379	Frozen beef slices	tropical fruit	white bread	pastry	waffles	specialty bar																										
+380	beef	other vegetables	margarine	soda																												
+381	Frozen beef slicesburger meat	tropical fruit	herbs	other vegetables	whole milk	curd	ice cream	Instant food products	newspapers	shopping bags																						
+382	beef	pip fruit	whole milk	butter	curd	margarine	cat food	coffee	waffles																							
+383	berries	onions	whipped/sour cream	brown bread	pasta	Ginger powder	dishes																									
+384	root vegetables																															
+385	beef																															
+386	rolls/buns	pastry	sugar																													
+387	soda																															
+388	Frozen beef slices	root vegetables	butter	UHT-milk	rolls/buns	pasta	sugar	coffee	soda																							
+389	brown bread																															
+390	pip fruit	frozen meals	ice cream	fruit/vegetable juice																												
+391	whole milk																															
+392	citrus fruit	UHT-milk	napkins																													
+393	Frozen beef slicesburger meat	rice	soups	sauces																												
+394	pip fruit	other vegetables	brown bread	fruit/vegetable juice	specialty chocolate																											
+395	root vegetables																															
+396	sausage	meat	citrus fruit	yogurt	ice cream	rolls/buns	brown bread	pickled vegetables	jam	Ginger powder	newspapers																					
+397	sausage	sliced cheese	cream cheese 	candy	shopping bags																											
+398	tropical fruit	pip fruit	UHT-milk	rolls/buns	pastry	salt																										
+399	pet care	soda	chocolate	candy																												
+400	beverages	bottled water	long life bakery product																													
+401	Frozen beef slices	tropical fruit	other vegetables	whole milk	yogurt	curd cheese	rolls/buns	flour	margarine	hygiene articles	shopping bags																					
+402	curd	meat spreads																														
+403	citrus fruit	whole milk	soft cheese	sliced cheese	cream cheese 	canned fish																										
+404	whole milk	cream cheese 	cereals	dog food																												
+405	tropical fruit	butter milk	beverages	bottled water	fruit/vegetable juice	salty snack	chewing gum	napkins	newspapers	shopping bags																						
+406	white bread	Powedered honny																														
+407	whipped/sour cream																															
+408	tropical fruit	berries	root vegetables	other vegetables	yogurt	rolls/buns	shopping bags																									
+409	meat	Frozen beef slicesburger meat	root vegetables	packaged fruit/vegetables	whole milk	butter	newspapers																									
+410	canned vegetables	newspapers																														
+411	rolls/buns	Canned Pepsi																														
+412	sausage	mayonnaise	rolls/buns	shopping bags																												
+413	Halawa	curd	yogurt	hard cheese	brown bread	Canned Pepsi																										
+414	Pepsi																															
+415	cream cheese 	oil	Canned Pepsi	waffles	hygiene articles	candles																										
+416	meat	specialty bar																														
+417	Pepsi																															
+418	soda																															
+419	Halawa	sausage	rolls/buns	soda	Ginger powder	shopping bags																										
+420	other vegetables	dessert	white bread																													
+421	Ginger powder	specialty bar																														
+422	cat food	soda	candy																													
+423	Canned Pepsi																															
+424	processed cheese																															
+425	turkey	nuts/prunes	other vegetables	whole milk	butter	curd	domestic eggs	pastry	tea																							
+426	pastry																															
+427	whole milk	yogurt	chocolate																													
+428	pip fruit	rolls/buns																														
+429	meat																															
+430	newspapers																															
+431	Halawa	frozen potato products	rolls/buns	specialty fat																												
+432	light bulbs																															
+433	misc. beverages																															
+434	Halawa	margarine	newspapers	shopping bags																												
+435	pip fruit																															
+436	Halawa	yogurt	beverages	brown bread	specialty chocolate	candy																										
+437	hard cheese																															
+438	Halawa	sausage	root vegetables	butter	curd	sliced cheese	rolls/buns	salty snack	long life bakery product																							
+439	meat	whole milk	dessert	soft cheese	frozen meals	rolls/buns	misc. beverages	long life bakery product	chocolate	specialty bar																						
+440	Powedered honny																															
+441	butter milk																															
+442	pip fruit	other vegetables	butter	yogurt	whipped/sour cream	brown bread	pastry	fruit/vegetable juice	detergent																							
+443	sausage	meat	berries	whole milk	whipped/sour cream	white bread	fruit/vegetable juice	long life bakery product	waffles	abrasive cleaner																						
+444	specialty cheese	soap																														
+445	rolls/buns																															
+446	Canned Pepsi																															
+447	yogurt	whipped/sour cream	hard cheese	ketchup																												
+448	Canned Pepsi																															
+449	Halawa	Martadella	beverages	frozen meals	waffles																											
+450	chicken	beef	whole milk	curd	brown bread	pastry	sauces	pickled vegetables	bottled water	soda	salty snack	waffles	specialty bar	napkins	light bulbs																	
+451	bottled water	soda																														
+452	pastry	bottled water																														
+453	beef	Instant food products	Canned Pepsi																													
+454	Halawa	Martadella	other vegetables	butter milk	UHT-milk	sliced cheese	brown bread	margarine																								
+455	root vegetables	other vegetables	canned fish	shopping bags																												
+456	ice cream	rolls/buns																														
+457	bottled water	Canned Pepsi	male cosmetics																													
+458	white bread	long life bakery product	shopping bags																													
+459	yogurt	beverages	fruit/vegetable juice	detergent	cleaner																											
+460	soda	specialty bar																														
+461	long life bakery product																															
+462	sausage	grapes	baking powder	specialty vegetables	Powedered honny	long life bakery product																										
+463	Industrial Fruit Juice																															
+464	domestic eggs																															
+465	fruit/vegetable juice	cake bar																														
+466	yogurt																															
+467	yogurt																															
+468	Ginger powder (appetizer)																															
+469	berries	root vegetables	whole milk	whipped/sour cream	shopping bags																											
+470	citrus fruit	root vegetables	margarine	cat food	shopping bags																											
+471	other vegetables	whipped/sour cream																														
+472	yogurt	soda																														
+473	flour	sugar																														
+474	sausage	citrus fruit	tropical fruit	whole milk	bottled water	specialty bar	detergent	newspapers																								
+475	pastry	soda																														
+476	beef																															
+477	newspapers																															
+478	whole milk	brown bread	pastry																													
+479	skin care	napkins																														
+480	other vegetables	whole milk	meat spreads	cake bar	chocolate	shopping bags																										
+481	bottled water	soda	dishes																													
+482	sausage	whole milk	brown bread																													
+483	other vegetables	UHT-milk	rolls/buns	pastry	bottled water	soda																										
+484	beverages	rolls/buns																														
+485	tropical fruit	soda	salty snack																													
+486	other vegetables	packaged fruit/vegetables	UHT-milk	bottled water																												
+487	rolls/buns																															
+488	Martadella	whole milk	soda	Canned Pepsi	salty snack	chewing gum	candy																									
+489	whole milk	cream cheese 	specialty chocolate	candy																												
+490	Pepsi	Ginger powder	red/blush wine																													
+491	meat	whole milk	frozen potato products	margarine	soda	detergent																										
+492	berries	pastry	sugar	soda	chocolate	make up remover																										
+493	Frozen beef slicesburger meat	citrus fruit	herbs	other vegetables	whole milk	butter	domestic eggs	pasta	Instant food products	canned fruit	pickled vegetables	bottled water	misc. beverages	Pepsi	hygiene articles																	
+494	ketchup																															
+495	tropical fruit	other vegetables	butter	whipped/sour cream	semi-finished bread	vinegar	fruit/vegetable juice	chocolate	shopping bags																							
+496	beef	root vegetables	other vegetables	butter	yogurt	rolls/buns	flour																									
+497	packaged fruit/vegetables	brown bread	Canned Pepsi																													
+498	Martadella	other vegetables	frozen vegetables	hygiene articles																												
+499	pip fruit	root vegetables	sugar	coffee	Pepsi																											
+500	pet care	bottled water	misc. beverages	shopping bags																												
+501	chocolate																															
+502	dessert																															
+503	bottled water	long life bakery product																														
+504	whole milk	Pepsi																														
+505	whole milk	yogurt	frozen potato products	margarine	bottled water	fruit/vegetable juice	salty snack																									
+506	chicken	tropical fruit	yogurt																													
+507	brown bread	chocolate																														
+508	soda																															
+509	frozen dessert	bottled water	soda	Pepsi																												
+510	chicken	beef	yogurt	rolls/buns	newspapers																											
+511	yogurt	frozen fish	ice cream																													
+512	Halawa	Frozen beef slices	root vegetables	onions	whole milk	yogurt	rolls/buns	white bread	brown bread	margarine																						
+513	Martadella	Canned Pepsi																														
+514	citrus fruit	soda																														
+515	pip fruit	Canned Pepsi	Powedered honny																													
+516	cookware																															
+517	other vegetables	butter milk	frozen fish	salty snack																												
+518	seasonal products																															
+519	rolls/buns																															
+520	Halawa	root vegetables	whole milk	frozen vegetables	coffee	soda	long life bakery product	napkins	house keeping products	newspapers	shopping bags																					
+521	mayonnaise																															
+522	vinegar	oil																														
+523	rolls/buns																															
+524	tropical fruit	whole milk	butter milk	cereals	fruit/vegetable juice	long life bakery product	chocolate	cleaner	newspapers																							
+525	rolls/buns																															
+526	tropical fruit	pip fruit	berries	whole milk	frozen potato products	rolls/buns	pickled vegetables	chocolate																								
+527	butter milk																															
+528	whole milk	frozen meals	pastry	fruit/vegetable juice	waffles																											
+529	other vegetables	whole milk	brown bread	Canned Pepsi																												
+530	yogurt	UHT-milk	frozen vegetables	pastry	potato products	soda	shopping bags																									
+531	grapes	salty snack																														
+532	root vegetables	whole milk	detergent																													
+533	citrus fruit	baking powder	sweet spreads	nut snack																												
+534	pip fruit	curd	margarine	baking powder																												
+535	Halawa	citrus fruit	rolls/buns	soda																												
+536	onions	whole milk	dessert	domestic eggs	rolls/buns	white bread	coffee	bottled water																								
+537	chicken	beef	root vegetables	other vegetables	whole milk	whipped/sour cream	pasta	soda																								
+538	pip fruit	soda	cake bar	specialty chocolate																												
+539	meat	chicken	berries	yogurt	whipped/sour cream	cream cheese 	mayonnaise	brown bread	long life bakery product																							
+540	margarine	long life bakery product	candles																													
+541	pastry																															
+542	Martadella																															
+543	rolls/buns	newspapers																														
+544	domestic eggs	candy																														
+545	sausage	whole milk	whipped/sour cream	pasta	pet care	fruit/vegetable juice																										
+546	curd	yogurt	domestic eggs	white bread	instant coffee	long life bakery product																										
+547	tropical fruit	other vegetables																														
+548	Canned Pepsi																															
+549	whipped/sour cream	frozen vegetables	flour	flower (seeds)																												
+550	beef	berries	yogurt	whipped/sour cream																												
